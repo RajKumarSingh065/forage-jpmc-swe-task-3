@@ -23,9 +23,8 @@ from random    import normalvariate, random
 from datetime  import timedelta, datetime
 
 import csv
-import dateutil.parser
+import dateutil
 import os.path
-
 import operator
 import json
 import re
